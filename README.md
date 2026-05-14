@@ -11,8 +11,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://amosloh.com"><img src="https://img.shields.io/badge/Portfolio-amo.com-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:amosmasarira@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:masariraa2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -221,9 +220,6 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://amosloh.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-amosloh.com-000000?style=for-the-badge" />
-  </a>
   <a href="mailto:masariraa2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
