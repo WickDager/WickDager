@@ -22,19 +22,20 @@
 
 ## 🧠 About Me
 
-I'm a **data scientist and full-stack developer** with a unique background bridging **oil & gas engineering** with **machine learning**. I build end-to-end systems — from deep learning pipelines that predict equipment failures to production-ready SaaS platforms. I'm comfortable moving between Jupyter notebooks, backend APIs, and polished front-end interfaces.
+I'm a **data scientist and full-stack developer** bridging **oil & gas engineering** with **machine learning and quantitative development**. I design and optimize intelligent end-to-end systems—ranging from deep learning pipelines for industrial predictive maintenance and multi-agent NLP frameworks to automated algorithmic trading setups and production-ready SaaS dashboards.
 
-- 🔭 I'm currently working on **TrackFlow** — a B2B logistics SaaS dashboard
-- 🌱 I'm deepening my expertise in **Transformer architectures** and **Next.js App Router**
-- 💬 Ask me about **predictive maintenance**, **ML deployment**, or **full-stack TypeScript**
-- ⚡ Fun fact: My portfolio site has a built-in **design token editor** and **WCAG contrast checker**
+- 🔭 I'm currently expanding my Master's thesis on **Multi-Agent Systems for Sentiment Analysis** and scaling **TrackFlow**
+- 🌱 Deepening my expertise in **Transformer architectures**, **Reinforcement Learning**, and **Next.js App Router**
+- 💬 Ask me about **predictive maintenance**, **MQL5/Python algorithmic trading execution**, or **full-stack TypeScript**
+- ⚡ Fun fact: I blend UI/UX with math—my portfolio has a built-in **design token editor** and **WCAG contrast checker**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Languages & Core Execution
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MQL5](https://img.shields.io/badge/MQL5-007AB8?style=for-the-badge&logo=meta&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,21 +44,19 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
 ### Machine Learning & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-6DB33F?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Frontend
+### Frontend & App Ecosystems
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 ### Backend & DevOps
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -65,16 +64,7 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth_v5-6C47FF?style=for-the-badge&logo=auth0&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-### Tools & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
@@ -93,7 +83,7 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
 
 ## 🚀 Featured Projects
 
-### 🤖 Machine Learning & Data Science
+### 🤖 Machine Learning, Quant & Data Science
 
 <table>
   <tr>
@@ -107,24 +97,34 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
       <p align="center">
         <b>Stack:</b> <code>PyTorch</code> <code>LSTM Autoencoder</code> <code>Transformers</code> <code>XGBoost</code> <code>SHAP</code>
       </p>
-      <p align="center">Deep learning anomaly detection, RUL prediction & survival analysis for Electric Submersible Pumps with uncertainty quantification.</p>
+      <p align="center">Deep learning anomaly detection, RUL prediction & survival analysis for Electric Submersible Pumps with explicit uncertainty quantification.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Gender Prediction Advertising</h3>
+      <h3 align="center">Multi-Agent Sentiment Analysis</h3>
       <p align="center">
-        <a href="https://github.com/WickDager/gender-prediction-advertising">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WickDager&repo=gender-prediction-advertising&theme=tokyonight&hide_border=true" />
+        <a href="#github">
+          <!-- Temporary placeholder/pin style until repo is public/named -->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WickDager&repo=code-and-composite&theme=tokyonight&hide_border=true" style="opacity: 0.7;" />
         </a>
       </p>
       <p align="center">
-        <b>Stack:</b> <code>LightGBM</code> <code>Pandas</code> <code>scikit-learn</code> <code>Jupyter</code>
+        <b>Stack:</b> <code>Python</code> <code>Transformers</code> <code>LangChain</code> <code>Scikit-learn</code>
       </p>
-      <p align="center">ML pipeline achieving <b>82.3% accuracy</b> on 500K users. Complete pipeline from data preprocessing to model deployment.</p>
+      <p align="center">Master’s Thesis research: A comparative framework evaluating Traditional Single-Model LLMs against specialized Multi-Agent Collaborations for complex customer review sentiment classification.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center">Intelligent Algorithmic Trading Engines</h3>
+      <p align="center">
+        <b>Stack:</b> <code>Python</code> <code>MQL5</code> <code>MetaTrader 5</code> <code>Sierra Chart</code> <code>LSTM</code>
+      </p>
+      <p align="center">Custom algorithmic execution modules designed for high-liquidity assets (XAUUSD, BTCUSD). Integrates predictive recurrent neural networks with real-time technical infrastructure (RSI, Bollinger Bands, Cumulative Delta) and rigorous mathematical risk protection rules (trailing/breakeven triggers).</p>
     </td>
   </tr>
 </table>
 
-### 🌐 Full-Stack Web Applications
+### 🌐 Full-Stack Web Applications & Mini Apps
 
 <table>
   <tr>
@@ -136,26 +136,26 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
         </a>
       </p>
       <p align="center">
-        <b>Stack:</b> <code>Next.js 16</code> <code>TypeScript</code> <code>NextAuth v5</code> <code>Tailwind CSS v4</code> <code>Radix UI</code>
+        <b>Stack:</b> <code>Next.js</code> <code>TypeScript</code> <code>NextAuth v5</code> <code>Tailwind CSS</code> <code>Radix UI</code>
       </p>
-      <p align="center">Logistics dashboard with role-based access, shipment tracking, analytics, and Zod-validated forms. Built in ~10 hours with AI-assisted development.</p>
+      <p align="center">A logistics platform dashboard utilizing a warm industrial dark interface style. Features precise role-based access controls, interactive shipment pipelines, analytics matrices, and rigorous Zod validation.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Trivaro Prop Firm</h3>
+      <h3 align="center">HabitFlow (Mini App)</h3>
       <p align="center">
-        <a href="https://github.com/WickDager/Trivaro-prop-firm-website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WickDager&repo=Trivaro-prop-firm-website&theme=tokyonight&hide_border=true" />
+        <a href="#github">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WickDager&repo=focus-pulse&theme=tokyonight&hide_border=true" style="opacity: 0.7;" />
         </a>
       </p>
       <p align="center">
-        <b>Stack:</b> <code>Node.js</code> <code>React</code> <code>MongoDB</code> <code>Redis</code> <code>Socket.io</code>
+        <b>Stack:</b> <code>Telegram Mini App API</code> <code>React</code> <code>Tailwind CSS</code>
       </p>
-      <p align="center">Full-stack forex trading platform with two-phase challenge system, real-time WebSocket monitoring, Stripe/PayPal payments & admin dashboard.</p>
+      <p align="center">A high-performance, mobile-optimized daily habit tracking system built directly inside the Telegram Mini App ecosystem. Focuses on minimal, distraction-free UI states and rapid cross-platform sync.</p>
     </td>
   </tr>
 </table>
 
-### 🎨 Creative & Interactive
+### 🎨 Creative, FinTech & Interactive
 
 <table>
   <tr>
@@ -167,21 +167,16 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
         </a>
       </p>
       <p align="center">
-        <b>Stack:</b> <code>HTML</code> <code>CSS</code> <code>Vanilla JS</code> <code>Vercel</code>
+        <b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>Vanilla JS</code> <code>Vercel</code>
       </p>
-      <p align="center">Front-end dev × graphic design portfolio. Features live design token editor, WCAG contrast checker, command palette, and AI prompt enhancer — <b>zero frameworks</b>.</p>
+      <p align="center">Front-end architecture x graphic design portfolio. Features a live design token editor, real-time WCAG contrast safety checker, command palettes, and an automated prompt engineer—built with <b>zero frameworks</b>.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Focus Pulse</h3>
+      <h3 align="center">Texas Franchise Tax Optimizer</h3>
       <p align="center">
-        <a href="https://github.com/WickDager/focus-pulse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=WickDager&repo=focus-pulse&theme=tokyonight&hide_border=true" />
-        </a>
+        <b>Stack:</b> <code>Python</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>
       </p>
-      <p align="center">
-        <b>Stack:</b> <code>VK Mini App</code> <code>React</code>
-      </p>
-      <p align="center">Gamified educational video watching platform. Answer questions at key timestamps, earn points, maintain streaks, and manage energy levels.</p>
+      <p align="center">An analytical optimization model tailored to corporate financial tracking. Accurately forecasts state tax liabilities and executes structured optimization scenarios under the complex provisions of the Texas Franchise Tax system.</p>
     </td>
   </tr>
 </table>
@@ -193,24 +188,20 @@ I'm a **data scientist and full-stack developer** with a unique background bridg
 <div align="center">
   <table>
     <tr>
-      <td align="center">🧠</td>
-      <td><b>Domain Expertise:</b> Oil & Gas engineering combined with data science — I understand the physical systems behind the data</td>
+      <td align="center">⚙️</td>
+      <td><b>Physical Systems Mastery:</b> Unique domain intersection of Oil & Gas engineering and deep data science—allowing me to extract accurate predictive insights from physical operational data.</td>
     </tr>
     <tr>
       <td align="center">🔬</td>
-      <td><b>Research-Grade ML:</b> Experience with LSTM Autoencoders, Transformer architectures, survival analysis, and Monte Carlo Dropout for uncertainty quantification</td>
+      <td><b>Advanced Architecture Research:</b> Deep experience formatting modern ML workflows—from recurrent autoencoders and Monte Carlo Dropout uncertainty methods to specialized Multi-Agent frameworks.</td>
     </tr>
     <tr>
-      <td align="center">🏗️</td>
-      <td><b>Production Systems:</b> Built real-time trading platforms with WebSocket integration, JWT auth, and payment processing</td>
+      <td align="center">📈</td>
+      <td><b>Quantitative System Execution:</b> Native cross-language engineering linking local Python execution layers cleanly into MQL5/MetaTrader platforms for real-time asset pricing workflows.</td>
     </tr>
     <tr>
       <td align="center">🎨</td>
-      <td><b>Design + Code:</b> Unique combination of graphic design skills with front-end development — WCAG compliance, design tokens, motion</td>
-    </tr>
-    <tr>
-      <td align="center">⚡</td>
-      <td><b>AI-Augmented Development:</b> Built TrackFlow in ~10 hours using AI pair programming (Claude), handling architecture, debugging, and deployment myself</td>
+      <td><b>Pixel-Perfect Rigor:</b> Strict UI/UX implementation emphasizing modular design tokens, full WCAG accessibility standards, and clean state handling across complex web and mini-app canvas spaces.</td>
     </tr>
   </table>
 </div>
