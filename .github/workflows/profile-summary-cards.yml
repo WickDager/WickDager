@@ -1,0 +1,26 @@
+# Generates your stats / top-languages / productive-time cards as SVG files
+# inside your own repo (profile-summary-card-output/), so nothing depends on
+# a third-party server.
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:        # lets you run it by hand
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses your personal access token if you add one named SUMMARY_GITHUB_TOKEN,
+          # otherwise falls back to the default token (public data only).
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 0   # set to your timezone's offset from UTC (e.g. 3) for the productive-time card
